@@ -1,0 +1,26 @@
+{
+  "name": "seedtrust",
+  "version": "1.0.0",
+  "description": "Future-focused crypto for investment savings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UndeniableMountain/SeedTrust.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UndeniableMountain/SeedTrust/issues"
+  },
+  "homepage": "https://github.com/UndeniableMountain/SeedTrust#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
